@@ -1,7 +1,9 @@
 # Voice_Recognition_And_Face_Recognition_System
 Implement voice biometric and face recognition system for authentication for security.<br> 
 Consider there is a door with access control which can be unlocked with your voice and face.<br> 
-Prepare database/model with your face and voice data.When you reach at access control system, you have to speak your name which activates the voice biometric authentication, identifies that it is your voice then captures your photo.Photo is again compared with existing database/model for verification.<br> 
+Prepare database/model with your face and voice data.<br> 
+When you reach at access control system, you have to speak your name which activates the voice biometric authentication, identifies that it is your voice then captures your photo.<br> 
+Photo is again compared with existing database/model for verification.<br> 
 If any of the 2 authentication fails, door is not unlocked.<br>  
 Both methods need to be successful in order to unlock the door.<br> 
 
