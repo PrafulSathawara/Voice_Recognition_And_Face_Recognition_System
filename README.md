@@ -60,36 +60,36 @@ CASE 1: When we have not pluged microphone then what will happen ?<br>
         ![alt text](https://github.com/PrafulSathawara/Voice_Recognition_And_Face_Recognition_System/blob/master/case1.png)<br>  
          
 CASE 2: When we have plugged the microphone, I am not speaking then what will happen?<br>
-        ![alt text](https://github.com/PrafulSathawara/Voice_Recognition_And_Face_Recognition_System/blob/master/case2.png)<br>
+        ![alt text](https://github.com/PrafulSathawara/Voice_Recognition_And_Face_Recognition_System/blob/master/case2.PNG)<br>
         
 CASE 3: When Apache & Mysql is not running then what will happen?<br>
-        ![alt text](https://github.com/PrafulSathawara/Voice_Recognition_And_Face_Recognition_System/blob/master/case3.png)<br>
+        ![alt text](https://github.com/PrafulSathawara/Voice_Recognition_And_Face_Recognition_System/blob/master/case3.PNG)<br>
 
 CASE 4: When we have plugged the microphone, I am speaking full name which does not exist into our database then what will happen?<br>
-        ![alt text](https://github.com/PrafulSathawara/Voice_Recognition_And_Face_Recognition_System/blob/master/case4.png)<br>
+        ![alt text](https://github.com/PrafulSathawara/Voice_Recognition_And_Face_Recognition_System/blob/master/case4.PNG)<br>
 
 CASE 5: When we have plugged the microphone, I am speaking more than 2 names then what will happen?<br>
-        ![alt text](https://github.com/PrafulSathawara/Voice_Recognition_And_Face_Recognition_System/blob/master/case5.png)<br> 
+        ![alt text](https://github.com/PrafulSathawara/Voice_Recognition_And_Face_Recognition_System/blob/master/case5.PNG)<br> 
 
 CASE 6: When we have plugged the microphone, I am speaking name only which is not exists in our database then what will happen?<br>
-        ![alt text](https://github.com/PrafulSathawara/Voice_Recognition_And_Face_Recognition_System/blob/master/case6.png)<br>
+        ![alt text](https://github.com/PrafulSathawara/Voice_Recognition_And_Face_Recognition_System/blob/master/case6.PNG)<br>
 
 CASE 7: When we have plugged the microphone, I am speaking name only database name and speaking name is in the different case then what will happen?<br>
-        ![alt text](https://github.com/PrafulSathawara/Voice_Recognition_And_Face_Recognition_System/blob/master/case7.png)<br>
+        ![alt text](https://github.com/PrafulSathawara/Voice_Recognition_And_Face_Recognition_System/blob/master/case7.PNG)<br>
 
 CASE 8: When we have plugged the microphone, I am speaking name only and around me so much noise like(playing a song, any loud sound) then what will happen?<br>
-        ![alt text](https://github.com/PrafulSathawara/Voice_Recognition_And_Face_Recognition_System/blob/master/case8.png)<br>
+        ![alt text](https://github.com/PrafulSathawara/Voice_Recognition_And_Face_Recognition_System/blob/master/case8.PNG)<br>
 
 CASE 9: When we have plugged the microphone, I am speaking name as "Maulik" but I am matching "Praful" face then what will happen?<br>
-        ![alt text](https://github.com/PrafulSathawara/Voice_Recognition_And_Face_Recognition_System/blob/master/case9.png)<br>
+        ![alt text](https://github.com/PrafulSathawara/Voice_Recognition_And_Face_Recognition_System/blob/master/case9.PNG)<br>
 
 CASE 10: When we have plugged the microphone, I am speaking name as "Obama" and I am matching "Obama" face via Mobile phone then what will happen?<br>
-         ![alt text](https://github.com/PrafulSathawara/Voice_Recognition_And_Face_Recognition_System/blob/master/case10-1.png)<br>
-         ![alt text](https://github.com/PrafulSathawara/Voice_Recognition_And_Face_Recognition_System/blob/master/case10-2.png)<br>
-         ![alt text](https://github.com/PrafulSathawara/Voice_Recognition_And_Face_Recognition_System/blob/master/case10-3.png)<br>
+         ![alt text](https://github.com/PrafulSathawara/Voice_Recognition_And_Face_Recognition_System/blob/master/case10-1.PNG)<br>
+         ![alt text](https://github.com/PrafulSathawara/Voice_Recognition_And_Face_Recognition_System/blob/master/case10-2.PNG)<br>
+         ![alt text](https://github.com/PrafulSathawara/Voice_Recognition_And_Face_Recognition_System/blob/master/case10-3.PNG)<br>
          
 CASE 11: When we have plugged the microphone, I am speaking name as "Mukesh" and I am matching "Mukesh" face via Mobile phone then what will happen?<br>
-         ![alt text](https://github.com/PrafulSathawara/Voice_Recognition_And_Face_Recognition_System/blob/master/case11.png)<br>
+         ![alt text](https://github.com/PrafulSathawara/Voice_Recognition_And_Face_Recognition_System/blob/master/case11.PNG)<br>
 
 CASE 12: When we have plugged the microphone, I am speaking name as "Praful" and I am matching "Praful" face via webcam but one image without men's sunglasses and one image with men's sunglasses then what will happen?<br>
-         ![alt text](https://github.com/PrafulSathawara/Voice_Recognition_And_Face_Recognition_System/blob/master/case12.png)<br>
+         ![alt text](https://github.com/PrafulSathawara/Voice_Recognition_And_Face_Recognition_System/blob/master/case12.PNG)<br>
