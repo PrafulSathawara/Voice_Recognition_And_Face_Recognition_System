@@ -8,7 +8,7 @@ Note: Please skip skip these steps which already you have.
 1) Install Anaconda on Windows Platform.<br>
    Help link: https://medium.com/@neuralnets/beginners-quick-guide-for-handling-issues-launching-jupyter-notebook-for-python-using-anaconda-8be3d57a209b
  
-2) Open Jupyter Notebook from Anaconda Navigator or Terminal. (Two ways to open Jupyter Notebook)
+2) Open Jupyter Notebook from Anaconda Navigator or Terminal. (Two ways to open Jupyter Notebook) <br>
    Help link: https://medium.com/@neuralnets/beginners-quick-guide-for-handling-issues-launching-jupyter-notebook-for-python-using-anaconda-8be3d57a209b
 
 3) Install Required Python Packages on Windows Platform.
