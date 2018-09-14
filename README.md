@@ -5,7 +5,7 @@ Steps for running application on Windows Platforms
 Note: Please skip skip these steps which already you have. 
       A general guide for installation & running application. 
 
-1) Install Anaconda on Windows Platform.
+1) Install Anaconda on Windows Platform.<br>
    Help link: https://medium.com/@neuralnets/beginners-quick-guide-for-handling-issues-launching-jupyter-notebook-for-python-using-anaconda-8be3d57a209b
  
 2) Open Jupyter Notebook from Anaconda Navigator or Terminal. (Two ways to open Jupyter Notebook)
