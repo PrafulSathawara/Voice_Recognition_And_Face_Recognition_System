@@ -51,3 +51,27 @@ Note: Please skip skip these steps which already you have.
 9) Plug the Microphone into your computer.
 
 10) Choose Kernal from the Menu option in Jupyter Notebook > Select Restart & RunAll option.
+
+
+
+Tested cases & result screen shot:
+===================================
+case 1 : When we have not pluged microphone then what will happen ?
+
+case 2 : When we have pluged microhone, I am not speaking then what will happen ?
+
+case 3 : When Apache & Mysql is not running then what will happen ?
+
+case 4 : When we have pluged microhone, I am speaking full name which is not exists into our database then what will happen ?
+
+case 5 : When we have pluged microhone, I am speaking mone then 2 names then what will happen ?
+
+case 6 : When we have pluged microhone, I am speaking name only which is not exists into our database then what will happen ?
+
+case 7 : When we have pluged microhone, I am speaking name only database name and speaking name is in different case then what will happen ?
+
+case 8 : When we have pluged microhone, I am speaking name only and around me so much noice like(playing song, any loud sound) then what will happen ?
+
+case 9 : when we have pluged microhone, I am speaking name as "Maulik" but I am matching "Praful" face then what will happen ?
+
+case 10 : When we have pluged microhone, I am speaking name as "Obama" but I am matching "Obama" face via Mobile phone then what will happen ?
