@@ -72,6 +72,6 @@ case 7: When we have plugged the microphone,   I am speaking name only database 
 
 case 8: When we have plugged the microphone,  I am speaking name only and around me so much noise like(playing a song, any loud sound) then what will happen?
 
-case 9: when we have plugged the microphone,  I am speaking name as "Maulik" but I am matching "Praful" face then what will happen?
+case 9: When we have plugged the microphone,  I am speaking name as "Maulik" but I am matching "Praful" face then what will happen?
 
 case 10: When we have plugged the microphone,   I am speaking name as "Obama" but I am matching "Obama" face via Mobile phone then what will happen?
