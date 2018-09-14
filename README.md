@@ -42,7 +42,7 @@ Note: Please skip skip these steps which already you have.
 6) In Jupyter Notebook Select File Menu.<br>
    Help link: https://medium.com/@neuralnets/beginners-quick-guide-for-handling-issues-launching-jupyter-notebook-for-python-using-anaconda-8be3d57a209b 
 
-7) Find file call "VR_And_FR_System.ipynb". Just Click on that File. It Will opens into Jupyter Notebook.
+7) Find file call "VR_And_FR_System.ipynb" into Jupyter Notebook. Just Click on that File. It Will opens into Jupyter Notebook.
 
 8) Specify the image path according to your system. (In my system I have stored all the images: "C:/Users/Pritul/Pictures/Camera Roll/")
      
