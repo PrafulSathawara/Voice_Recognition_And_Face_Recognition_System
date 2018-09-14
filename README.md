@@ -54,7 +54,7 @@ Note: Please skip skip these steps which already you have.
 
 
 
-Tested cases & result screen shot:
+Tested cases & result screen shot
 ===================================
 case 1 : When we have not pluged microphone then what will happen ?
 
