@@ -56,8 +56,9 @@ Note: Please skip skip these steps which already you have.
 
 Tested cases & result screen shot
 ===================================
-CASE 1 : When we have not pluged microphone then what will happen ?
-
+CASE 1: When we have not pluged microphone then what will happen ?
+        ![alt text](https://github.com/PrafulSathawara/Voice_Recognition_And_Face_Recognition_System/blob/master/case1.png)  
+         
 CASE 2: When we have plugged the microphone, I am not speaking then what will happen?
 
 CASE 3: When Apache & Mysql is not running then what will happen?
