@@ -46,7 +46,7 @@ Note: Please skip skip these steps which already you have.
 
 8) Specify the image path according to your system. (In my system I have stored all the images: "C:/Users/Pritul/Pictures/Camera Roll/")
 
-9) Specify mysql username and password according to your system. (In my system: msqlconn.connect(host="localhost",user="root",passwd="",database="ai_demo"))
+9) Specify mysql username and password according to your system. (In my system: msqlconn.connect(host="localhost",user="*****",passwd="*****",database="ai_demo"))
 
 9) Plug the Microphone into your computer.
 
